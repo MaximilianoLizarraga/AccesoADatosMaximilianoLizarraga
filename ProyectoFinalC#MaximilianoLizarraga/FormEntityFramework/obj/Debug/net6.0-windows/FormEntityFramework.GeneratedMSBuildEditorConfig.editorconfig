@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FormEntityFramework
-build_property.ProjectDir = C:\Users\Maxi\Desktop\AccesoADatosMaximilianoLizarraga\ProyectoFinalC#MaximilianoLizarraga\FormEntityFramework\
+build_property.ProjectDir = C:\Users\Maxi\Desktop\ProyectoFinalCsharpFedericoGarea\FormEntityFramework\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

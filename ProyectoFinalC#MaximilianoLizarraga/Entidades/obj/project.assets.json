@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",

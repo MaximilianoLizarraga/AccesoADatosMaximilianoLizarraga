@@ -2038,11 +2038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\FormEntityFramework\\FormEntityFramework.csproj",
+      "projectUniqueName": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\FormEntityFramework\\FormEntityFramework.csproj",
       "projectName": "FormEntityFramework",
-      "projectPath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\FormEntityFramework\\FormEntityFramework.csproj",
+      "projectPath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\FormEntityFramework\\FormEntityFramework.csproj",
       "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\FormEntityFramework\\obj\\",
+      "outputPath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\FormEntityFramework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2059,8 +2059,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\Entidades\\Entidades.csproj"
             }
           }
         }

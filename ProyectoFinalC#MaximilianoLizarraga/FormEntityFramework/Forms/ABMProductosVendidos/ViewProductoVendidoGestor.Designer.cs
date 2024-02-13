@@ -41,34 +41,38 @@
             // 
             // txtIdProducto
             // 
-            txtIdProducto.Location = new Point(62, 178);
+            txtIdProducto.Location = new Point(54, 134);
+            txtIdProducto.Margin = new Padding(3, 2, 3, 2);
             txtIdProducto.Name = "txtIdProducto";
-            txtIdProducto.Size = new Size(199, 27);
-            txtIdProducto.TabIndex = 47;
+            txtIdProducto.Size = new Size(175, 23);
+            txtIdProducto.TabIndex = 2;
             // 
             // btnCancelar
             // 
-            btnCancelar.Location = new Point(249, 389);
+            btnCancelar.Location = new Point(218, 292);
+            btnCancelar.Margin = new Padding(3, 2, 3, 2);
             btnCancelar.Name = "btnCancelar";
-            btnCancelar.Size = new Size(94, 29);
-            btnCancelar.TabIndex = 46;
+            btnCancelar.Size = new Size(82, 22);
+            btnCancelar.TabIndex = 6;
             btnCancelar.Text = "Cancelar";
             btnCancelar.UseVisualStyleBackColor = true;
             btnCancelar.Click += btnCancelar_Click;
             // 
             // txtStock
             // 
-            txtStock.Location = new Point(62, 116);
+            txtStock.Location = new Point(54, 87);
+            txtStock.Margin = new Padding(3, 2, 3, 2);
             txtStock.Name = "txtStock";
-            txtStock.Size = new Size(199, 27);
-            txtStock.TabIndex = 45;
+            txtStock.Size = new Size(175, 23);
+            txtStock.TabIndex = 1;
             // 
             // btnAgregar
             // 
-            btnAgregar.Location = new Point(17, 389);
+            btnAgregar.Location = new Point(15, 292);
+            btnAgregar.Margin = new Padding(3, 2, 3, 2);
             btnAgregar.Name = "btnAgregar";
-            btnAgregar.Size = new Size(94, 29);
-            btnAgregar.TabIndex = 44;
+            btnAgregar.Size = new Size(82, 22);
+            btnAgregar.TabIndex = 4;
             btnAgregar.Text = "Agregar";
             btnAgregar.UseVisualStyleBackColor = true;
             btnAgregar.Click += btnAgregar_Click;
@@ -76,18 +80,19 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(62, 155);
+            label2.Location = new Point(54, 116);
             label2.Name = "label2";
-            label2.Size = new Size(86, 20);
+            label2.Size = new Size(69, 15);
             label2.TabIndex = 43;
             label2.Text = "Id Producto";
             // 
             // btnModificar
             // 
-            btnModificar.Location = new Point(133, 389);
+            btnModificar.Location = new Point(116, 292);
+            btnModificar.Margin = new Padding(3, 2, 3, 2);
             btnModificar.Name = "btnModificar";
-            btnModificar.Size = new Size(94, 29);
-            btnModificar.TabIndex = 42;
+            btnModificar.Size = new Size(82, 22);
+            btnModificar.TabIndex = 5;
             btnModificar.Text = "Modificar";
             btnModificar.UseVisualStyleBackColor = true;
             btnModificar.Click += btnModificar_Click;
@@ -95,33 +100,34 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(62, 93);
+            label1.Location = new Point(54, 70);
             label1.Name = "label1";
-            label1.Size = new Size(45, 20);
+            label1.Size = new Size(36, 15);
             label1.TabIndex = 41;
             label1.Text = "Stock";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(62, 220);
+            label4.Location = new Point(54, 165);
             label4.Name = "label4";
-            label4.Size = new Size(63, 20);
+            label4.Size = new Size(49, 15);
             label4.TabIndex = 48;
             label4.Text = "Id Venta";
             // 
             // txtIdVenta
             // 
-            txtIdVenta.Location = new Point(62, 243);
+            txtIdVenta.Location = new Point(54, 182);
+            txtIdVenta.Margin = new Padding(3, 2, 3, 2);
             txtIdVenta.Name = "txtIdVenta";
-            txtIdVenta.Size = new Size(199, 27);
-            txtIdVenta.TabIndex = 50;
+            txtIdVenta.Size = new Size(175, 23);
+            txtIdVenta.TabIndex = 3;
             // 
             // ViewProductoVendidoGestor
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(361, 451);
+            ClientSize = new Size(316, 338);
             Controls.Add(txtIdVenta);
             Controls.Add(label4);
             Controls.Add(txtIdProducto);
@@ -131,7 +137,6 @@
             Controls.Add(label2);
             Controls.Add(btnModificar);
             Controls.Add(label1);
-            Margin = new Padding(3, 4, 3, 4);
             Name = "ViewProductoVendidoGestor";
             Text = "Gestor Producto Vendido";
             Load += ViewProductoVendidoGestor_Load;

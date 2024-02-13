@@ -1,1 +1,0 @@
-Aplicacion de consola y de form con la que a traves de ADO.NET se vincula con la BD y se puede gestionar el CRUD de cada una de las tablas.

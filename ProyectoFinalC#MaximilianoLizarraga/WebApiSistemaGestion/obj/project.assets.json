@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\WebApiSistemaGestion\\WebApiSistemaGestion.csproj",
+      "projectUniqueName": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\WebApiSistemaGestion\\WebApiSistemaGestion.csproj",
       "projectName": "WebApiSistemaGestion",
-      "projectPath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\WebApiSistemaGestion\\WebApiSistemaGestion.csproj",
+      "projectPath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\WebApiSistemaGestion\\WebApiSistemaGestion.csproj",
       "packagesPath": "C:\\Users\\Maxi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\WebApiSistemaGestion\\obj\\",
+      "outputPath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\WebApiSistemaGestion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Maxi\\AppData\\Roaming\\NuGet\\NuGet.Config",

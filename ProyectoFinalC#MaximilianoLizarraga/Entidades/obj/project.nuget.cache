@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "limNz3e7yclDNVLPIRMqsNnmudIzdZ+bvqhBWOfQq1xsBY9Um5EAriXkAqza0gJX3Yr/rXSdlAldd4/90KDr4g==",
+  "dgSpecHash": "zanj4NzY9/cjj7rkWbt4CzAfdSp7UZjyRnMb7daCscO3xf5t4AvdWNj/3QjWdwWNAH+D0UbpWirR5TNG1nsJuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxi\\Desktop\\AccesoADatosMaximilianoLizarraga\\ProyectoFinalC#MaximilianoLizarraga\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\Maxi\\Desktop\\ProyectoFinalCsharpFedericoGarea\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Maxi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
